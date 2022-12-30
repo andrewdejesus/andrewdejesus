@@ -8,7 +8,6 @@
 
 
 ![Andrew GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewdejesus&show_icons=true&theme=onedark)
-
 ![Andrew tec](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewdejesus&theme=blue-green)
 ### Tecnologias que mais utilizo no dia a dia
 
