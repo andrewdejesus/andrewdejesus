@@ -9,6 +9,7 @@
 
 ![Andrew GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewdejesus&show_icons=true&theme=onedark)
 ![Andrew tec](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewdejesus&theme=blue-green)
+
 ### Tecnologias que mais utilizo no dia a dia
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -16,6 +17,10 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![postegreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![PHP](	https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Siga-me
 ![Git](https://img.shields.io/github/followers/andrewdejesus.svg?style=social&label=Follow&maxAge=2592000)
