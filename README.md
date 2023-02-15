@@ -7,7 +7,7 @@
 [![Instagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_andrewjesus/)
 
 
-![Andrew GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewdejesus&show_icons=true&theme=onedark)
+![Andrew GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewdejesus&show_icons=true&theme=onedark&count_private=true)
 ![Andrew tec](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewdejesus&theme=blue-green&count_private=true)
 
 ### Tecnologias que mais utilizo no dia a dia
